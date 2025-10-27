@@ -1,4 +1,6 @@
-# meta-analysis
+# Cross-cohort analyses reveal gut microbiome signatures associated with hepatocellular carcinoma
+
+# The public HCC datasets we used
 
 #the public HCC project IDs we used
 
