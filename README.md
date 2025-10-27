@@ -2,8 +2,6 @@
 
 ## The public HCC datasets we used
 
-#the public HCC project IDs we used
-
 https://www.ebi.ac.uk/ena/browser/view/PRJNA932948
 
 https://ngdc.cncb.ac.cn/gsa/browse/CRA019232
